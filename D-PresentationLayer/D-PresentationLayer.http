@@ -1,0 +1,6 @@
+@D_PresentationLayer_HostAddress = http://localhost:5116
+
+GET {{D_PresentationLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
