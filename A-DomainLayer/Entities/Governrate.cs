@@ -1,6 +1,6 @@
 namespace ClassLibrary1.Entities;
 
-public class Governrate : BaseEntity
+public class Governorate : BaseEntity
 {
-    public string Governrate_Name { get; set; }
+    public string Governorate_Name { get; set; }
 }
